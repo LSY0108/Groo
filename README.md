@@ -35,33 +35,23 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 
 ### ⚙ 기술 스택
 ## Back-end
-<div>
-  <img src="/skills/Java.png" width="80"/>
-  <img src="/skills/SpringBoot.png" width="80"/>
-  <img src="/skills/SpringSecurity.png" width="80"/>
-  <img src="/skills/JPA.png" width="80"/>
-</div>
-
+- Java
+- SpringBoot
+- SpringSecurity
+- JPA
+<br/>
+## Front-end
+- React
+- TailWindCSS
 <br/>
 
-## Front-end
-<div>
-<img src="/skills/React.png" width="80"/>
-<img src="/skills/JavaScript.png" width="80"/>
-<img src="/skills/HTML5.png" width="80"/>
-<img src="/skills/CSS3.png" width="80"/>
-</div>
 ## Database & Infrastructure
-  <div>
-    <img src="/skills/MySQL.png" width="80"/>
-    <img src="/skills/AWS.png" width="80"/>
-  </div>
+- MySQL
+- AWS
+<br/>
 ## Tools
-  <div>
-    <img src="/skills/GitHub.png" width="80"/>
-    <img src="/skills/Eclipse.png" width="80"/>
-  </div>
-
+- GitHub
+<br/>
 ### 🛠️ 프로젝트 아키텍처
 ## 개발 환경
 - JDK 20.0.2
