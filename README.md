@@ -11,11 +11,11 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 ### 화면 구성
 |로그인|메인페이지|
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0" width="400"/>|<img src="https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0" width="400"/>|<img src="https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f" width="600"/>|
 |마이페이지|개인채팅|
-|<img src="https://github.com/user-attachments/assets/d3d30c50-346d-4e64-bc51-41778ad98eee" width="400"/>|<img src="https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/d3d30c50-346d-4e64-bc51-41778ad98eee" width="600"/>|<img src="https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b" width="600"/>|
 |알림|오픈채팅 메인|
-|<img src="https://github.com/user-attachments/assets/fbbc01a4-5c07-43fd-b459-81cd68e51533" width="400"/>|<img src="https://github.com/user-attachments/assets/109e519b-73ce-4880-b687-f3916af64919" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/fbbc01a4-5c07-43fd-b459-81cd68e51533" width="600"/>|<img src="https://github.com/user-attachments/assets/109e519b-73ce-4880-b687-f3916af64919" width="600"/>|
 
 
 ## 주요 특징
