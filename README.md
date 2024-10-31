@@ -11,7 +11,7 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 ### 화면 구성
 |Screen #1|Screen #2|
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0" width="400"/>|<img src="https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f" width="400"/>|
+|<img src="https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0" width="200"/>|<img src="https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f"/>|
 
 
 
