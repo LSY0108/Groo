@@ -40,6 +40,7 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 - SpringSecurity
 - JPA
 <br/>
+
 ## Front-end
 - React
 - TailWindCSS
@@ -49,9 +50,11 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 - MySQL
 - AWS
 <br/>
+
 ## Tools
 - GitHub
 <br/>
+
 ### 🛠️ 프로젝트 아키텍처
 ## 개발 환경
 - JDK 20.0.2
