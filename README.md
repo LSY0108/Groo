@@ -5,10 +5,11 @@ grooo (SNS 웹사이트)
 </div>
 
 ### 📝 소개
+<br/>
 grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니다. 사용자들은 일상 속 환경 보호 활동을 공유하고, 다른 사람들과 소통하며 함께 성장할 수 있습니다.
 
 ### 화면 구성
-
+<br/>
 #### 로그인
 ![로그인](https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0)
 
