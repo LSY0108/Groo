@@ -70,5 +70,13 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 - BCryptPasswordEncoder
 
 ### 📋 ERD
-## 
-![개인채팅페이지](https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b)
+## 유저 ERD
+![유저정보](https://github.com/user-attachments/assets/611eb25d-b5d9-4722-9a49-c399bd75c58b)
+<br/>
+
+## 게시글 ERD
+![게시글ERD](https://github.com/user-attachments/assets/7d0fd35b-8b4b-4280-b4e9-aeb65d083b2f)
+
+## 채팅 ERD
+![채팅ERD](https://github.com/user-attachments/assets/5094c69b-1e70-41c1-b79e-ee48f8e08c4b)
+
