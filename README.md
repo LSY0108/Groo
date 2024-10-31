@@ -9,15 +9,16 @@ grooo (SNS 웹사이트)
 grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니다. 사용자들은 일상 속 환경 보호 활동을 공유하고, 다른 사람들과 소통하며 함께 성장할 수 있습니다.
 
 ### 화면 구성
-## 메인페이지
-![메인페이지](https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f)
 
-## 개인채팅페이지
-![개인채팅페이지](https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b)
-
-## 로그인
+#### 로그인
 ![로그인](https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0)
-
+<br/>
+#### 메인페이지
+![메인페이지](https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f)
+<br/>
+#### 개인채팅페이지
+![개인채팅페이지](https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b)
+<br/>
 
 ## 주요 특징
 - 친환경 활동 공유 및 기록
