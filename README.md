@@ -11,11 +11,17 @@ grooo는 환경 보호와 지속 가능한 미래를 위한 SNS 플랫폼입니�
 #### 로그인
 ![로그인](https://github.com/user-attachments/assets/9d24e455-30f7-45a9-93dc-b2cf37940bc0)
 
-#### 메인페이지
+#### 메인 페이지
 ![메인페이지](https://github.com/user-attachments/assets/6965d94b-17a0-4113-88ed-ca3b48ea944f)
 
-#### 개인채팅페이지
+#### 개인채팅 페이지
 ![개인채팅페이지](https://github.com/user-attachments/assets/f5a77b2e-3bfc-432e-aa95-4b2a7febce4b)
+
+#### 오픈채팅 기본 페이지
+![오픈채팅기본페이지](https://github.com/user-attachments/assets/182f9f86-39ac-4069-983a-e1a78e9c1a74)
+
+#### 오픈채팅방 페이지
+![오픈채팅방페이지](https://github.com/user-attachments/assets/daed9aed-bdfa-4698-8466-e384ce03626d)
 
 ## 주요 특징
 - 친환경 활동 공유 및 기록
